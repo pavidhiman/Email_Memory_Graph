@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "e213d5d8a1f231df",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d2e5ddabc10bc98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f497476c078c5143",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31b76547b0af3a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ac639cde799f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06d11aac86c98299",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f72889f22ecb7a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8ec59c349feedc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f84a0857206ba83",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0a14e48979cb28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7fb918e8f1c27f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee40968be594d05f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3459f14b7e0d7be7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efa060aa100ce3c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f497476c078c5143",
+  "lastOpenFiles": [
+    "Felix Schlegel <felix@interaction.co>.md",
+    "Thu, 20 Mar 2025 16-40-14 +0100_Marvin von Hagen <marvin_interaction_co>.md",
+    "2025-02-24_alisha_babbitt_flyzipline_com.md",
+    "2025-03-23_recruiter_bigtech_com.md",
+    "Foot Locker Canada <footlocker@bc.footlocker.ca>.md",
+    "2025-03-08_mehul_matic_team.md",
+    "Thu, 20 Mar 2025 13-16-52 +0000_Codecademy <learn_itr_mail_codecademy_com>.md",
+    "Mon, 24 Mar 2025 15-21-44 +0000 (UTC)_\"Danielle Strachman (1517)\" <danielle_1517_members_mobilize_io>.md",
+    "Sun, 23 Mar 2025 06-19-58 -0600_\"Bath & Body Works Canada\" <bathandbodyworkscanada_ca2_bathandbodyworks_ca>.md",
+    "DataCamp Insights <team@datacamp.com>.md",
+    "Thu, 20 Mar 2025 06-04-59 -0600_\"Bath & Body Works Canada\" <bathandbodyworkscanada_ca2_bathandbodyworks_ca>.md",
+    "Thu, 20 Mar 2025 13-16-50 +0000 (UTC)_Foot Locker Canada <footlocker_bc_footlocker_ca>.md",
+    "Thu, 20 Mar 2025 09-50-49 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 08-01-12 -0600_\"Dynamite\" <style_emails_dynamitestyle_com>.md",
+    "Thu, 20 Mar 2025 09-11-36 -0500 (CDT)_Grafana Labs Team <update_grafana_com>.md",
+    "Thu, 20 Mar 2025 14-20-59 +0000_\"Pocket\" <team_today_getpocket_com>.md",
+    "Thu, 20 Mar 2025 14-22-05 +0000 (UTC)_LinkedIn <jobs-listings_linkedin_com>.md",
+    "Thu, 20 Mar 2025 11-22-33 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 11-24-09 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 16-32-50 +0100_Marvin von Hagen <marvin_interaction_co>.md",
+    "Thu, 20 Mar 2025 15-35-26 +0000_No Reply <no_reply_BAL_com>.md",
+    "Thu, 20 Mar 2025 11-36-45 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 11-37-28 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 15-38-03 +0000_Cynthia Serrano <cserrano_bal_com>.md",
+    "Thu, 20 Mar 2025 11-43-24 -0400_Pavi Dhiman <pavidhiman22_gmail_com>.md",
+    "Thu, 20 Mar 2025 09-17-25 -0600_\"Bath & Body Works Canada\" <bathandbodyworkscanada_ca2_bathandbodyworks_ca>.md"
+  ]
+}

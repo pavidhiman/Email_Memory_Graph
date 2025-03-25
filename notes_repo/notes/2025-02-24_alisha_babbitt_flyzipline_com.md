@@ -7,7 +7,7 @@
 **Subject:** Summer or Fall Internship?
 
 **Summary:**
-Alisha, the Avionics Test Manager at Zipline, is interested in discussing potential internship opportunities with Pavi. The email was forwarded by Ian, indicating a referral.
+Alisha, the Avionics Test Manager at Zipline, is interested in discussing potential internship opportunities with Pavi. The email was forwarded by Ian, indicating a potential referral.
 
 **Sentiment:** Positive
 

@@ -12,6 +12,7 @@ The email is a brief message requesting the recipient to fill out and send back 
 **Sentiment:** Neutral
 
 **Tasks:**
-- [ ] Fill out and send back the bill of sale form
+- [ ] Fill out bill of sale form
+- [ ] Send back the form
 
 **Tags:** #email #knowledge
