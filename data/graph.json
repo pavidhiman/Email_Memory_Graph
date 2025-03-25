@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "hagen@mit.edu",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "pavidhiman22@gmail.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "christopher@symphoniclabs.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "chris@symphoniclabs.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "avery@symphoniclabs.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "recruiter@bigtech.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "john.doe@company.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "alisha.babbitt@flyzipline.com",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    },
+    {
+      "id": "mehul@matic.team",
+      "group": "other",
+      "topics": [],
+      "status": "Pending"
+    }
+  ],
+  "links": [
+    {
+      "source": "",
+      "target": "hagen@mit.edu",
+      "topics": []
+    },
+    {
+      "source": "",
+      "target": "hagen@mit.edu",
+      "topics": []
+    },
+    {
+      "source": "pavidhiman22@gmail.com",
+      "target": "christopher@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "pavidhiman22@gmail.com",
+      "target": "chris@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "pavidhiman22@gmail.com",
+      "target": "avery@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "christopher@symphoniclabs.com",
+      "target": "chris@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "christopher@symphoniclabs.com",
+      "target": "avery@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "chris@symphoniclabs.com",
+      "target": "avery@symphoniclabs.com",
+      "topics": []
+    },
+    {
+      "source": "",
+      "target": "recruiter@bigtech.com",
+      "topics": []
+    },
+    {
+      "source": "",
+      "target": "john.doe@company.com",
+      "topics": []
+    },
+    {
+      "source": "pavidhiman22@gmail.com",
+      "target": "alisha.babbitt@flyzipline.com",
+      "topics": []
+    },
+    {
+      "source": "pavidhiman22@gmail.com",
+      "target": "mehul@matic.team",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "from": "john.doe@company.com",
+    "subject": "Invoice for last month’s work",
+    "date": "2025-03-24",
+    "body": "Hi, I’ve attached the invoice for the consulting work we did in March. Let me know if you have any questions."
+}  
